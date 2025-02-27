@@ -11,6 +11,7 @@ Git ssh setup in profile
 create a project
 
 git clone project-repo-url
+git pull -- get the latest files
 git status --- changes in ur repo
 git diff file-name --- file level changes
 git add --- adding the files to local git  
