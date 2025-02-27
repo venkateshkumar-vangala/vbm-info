@@ -1,0 +1,2 @@
+# vbm-info
+vbm -info
